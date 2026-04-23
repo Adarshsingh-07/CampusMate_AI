@@ -136,11 +136,6 @@ It applies **Retrieval-Augmented Generation (RAG)** to let users upload PDFs and
     cd frontend
     streamlit run app.py
 
-## 📸 Demo
-
-🔗 Live Project: https://campusmate.streamlit.app/
-
-    Upload your study PDFs → Ask questions → Get instant answers 🎓⚡
 
 
 ## 🤝Contribution
